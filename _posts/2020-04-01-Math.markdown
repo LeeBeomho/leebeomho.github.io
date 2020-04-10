@@ -4,6 +4,7 @@ title:  "Math"
 date:   2020-04-01 17:40:33 +0900
 categories: math
 use_math: true
+comment: true
 
 ---
 
