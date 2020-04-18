@@ -1,0 +1,3 @@
+﻿  min-selection_sort.c
+C:\Users\pc1\my-awesome-site\algorithm\c\algorithm\algorithm\min-selection_sort.c(14,19): warning C4013: 'MinSelectArrayInt'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  algorithm.vcxproj -> C:\Users\pc1\my-awesome-site\algorithm\c\algorithm\Debug\min-selection_sort.exe
